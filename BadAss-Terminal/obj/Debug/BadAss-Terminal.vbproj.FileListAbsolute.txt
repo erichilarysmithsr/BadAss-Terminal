@@ -1,0 +1,9 @@
+C:\Users\Tristan\Documents\GitHub\BadAss-Terminal\BadAss-Terminal\bin\Debug\BadAss-Terminal.exe.config
+C:\Users\Tristan\Documents\GitHub\BadAss-Terminal\BadAss-Terminal\bin\Debug\BadAss-Terminal.exe
+C:\Users\Tristan\Documents\GitHub\BadAss-Terminal\BadAss-Terminal\bin\Debug\BadAss-Terminal.pdb
+C:\Users\Tristan\Documents\GitHub\BadAss-Terminal\BadAss-Terminal\bin\Debug\BadAss-Terminal.xml
+C:\Users\Tristan\Documents\GitHub\BadAss-Terminal\BadAss-Terminal\obj\Debug\BadAss_Terminal.Resources.resources
+C:\Users\Tristan\Documents\GitHub\BadAss-Terminal\BadAss-Terminal\obj\Debug\BadAss-Terminal.vbproj.GenerateResource.Cache
+C:\Users\Tristan\Documents\GitHub\BadAss-Terminal\BadAss-Terminal\obj\Debug\BadAss-Terminal.exe
+C:\Users\Tristan\Documents\GitHub\BadAss-Terminal\BadAss-Terminal\obj\Debug\BadAss-Terminal.xml
+C:\Users\Tristan\Documents\GitHub\BadAss-Terminal\BadAss-Terminal\obj\Debug\BadAss-Terminal.pdb
