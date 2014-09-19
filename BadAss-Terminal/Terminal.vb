@@ -20,6 +20,15 @@
         ElseIf input = "clear" Then
             'Clear the console screen when the user types 'clear' and hits enter
             Console.Clear()
+        ElseIf input = "bat -about" Then
+            'Displays about information when the user types 'bat -about' and hits enter
+            Misc.About()
+        ElseIf input = "bat -help" Then
+            'Displays help information when the user types 'bat -help' and hits enter
+            Misc.Help()
+        ElseIf input = "bat -updates" Then
+            'Displays update information when the user types 'bat -updates' and hits enter
+            Misc.CheckForUpdates()
         Else
             Try
                 Shell(input)
