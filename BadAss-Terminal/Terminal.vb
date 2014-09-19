@@ -2,7 +2,7 @@
     Dim input As String = Nothing
 
     Sub Main()
-        'Print thios text to the console on startup of the application
+        'Print this text to the console on startup of the application
         Console.WriteLine(My.Application.Info.ProductName & " v" & My.Application.Info.Version.ToString)
         Console.WriteLine("Copyleft - GNU GPL v3 or above" & vbNewLine)
         'Start the forever looping terminal
